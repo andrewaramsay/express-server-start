@@ -1,0 +1,15 @@
+{
+  "name": "express-server-start",
+  "version": "1.0.0",
+  "description": "The basic structure I like to use for writing node servers.",
+  "main": "src/server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  }
+}
